@@ -1,0 +1,36 @@
+#caja1{
+	background: red;
+	border: 15px solid blue;
+}
+#caja1,#caja2,#caja3,#caja4{
+	
+	width: 100px;
+	height: 100px;
+}
+#caja2{
+	background-color: orange;
+	display: inline-block;
+}
+#caja3{
+	background: green;
+}
+#caja4{
+	background: yellow;
+}
+
+div img{
+	margin: 10px;
+}
+.muestra{
+	height: 100px;
+	width: 400px;
+	border: 5px solid #C00;
+	margin: 20px;
+	padding: 20px;
+}
+.anterior,.posterior{
+	height: 200px;
+	width: 100px;
+	border: 2px solid #AEC017;
+	padding: 0px;
+}
